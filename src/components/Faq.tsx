@@ -33,7 +33,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Why can't I pick specific reviews?",
-    a: "Amazon does not allow third parties to target specific reviews for guaranteed removal. Our process identifies reviews that appear to violate Amazon's published policies and submits structured cases accordingly. Final moderation decisions—including which reviews are removed and when—are made solely by Amazon.",
+    a: "Amazon does not allow third parties to target specific reviews for guaranteed removal. Our process identifies reviews that appear to violate Amazon's published policies and submits structured cases accordingly. Final moderation decisions, including which reviews are removed and when, are made solely by Amazon.",
   },
   {
     q: "What happens if a review remains?",
@@ -49,7 +49,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Why aren't removal numbers higher?",
-    a: "Removal outcomes depend entirely on review content and Amazon's moderation discretion. We submit qualified cases consistently, but Amazon determines if and when a review is removed. Volume isn't something we restrict; it's something Amazon governs. That's why we recommend always-on monitoring across 1–3 star reviews—every non-compliant review is identified and submitted, so when Amazon acts, your rating structure is protected over time.",
+    a: "Removal outcomes depend entirely on review content and Amazon's moderation discretion. We submit qualified cases consistently, but Amazon determines if and when a review is removed. Volume isn't something we restrict; it's something Amazon governs. That's why we recommend always-on monitoring across 1–3 star reviews: every non-compliant review is identified and submitted, so when Amazon acts, your rating structure is protected over time.",
   },
   {
     q: "How much should I expect to spend per month?",

@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "ReviewCraft | Amazon Review Removal Service for Sellers",
   description:
-    "We identify and remove reviews that violate Amazon's policies—systematically, compliantly, and effectively. Sign up free, pay $200 only when reviews are removed.",
+    "We identify and remove reviews that violate Amazon's policies, systematically, compliantly, and effectively. Sign up free, pay $200 only when reviews are removed.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

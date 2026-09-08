@@ -28,7 +28,7 @@ export function Problem() {
           </h2>
           <p className="text-lg leading-[1.55] text-muted">
             Amazon sellers face a critical challenge: negative reviews that damage your
-            business&mdash;even when they violate Amazon&rsquo;s own policies.
+            business, even when they violate Amazon&rsquo;s own policies.
           </p>
         </div>
 

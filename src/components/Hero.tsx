@@ -1,4 +1,5 @@
 import { CheckIcon } from "./CheckIcon";
+import { GradientText } from "./GradientText";
 
 const BADGES = ["100% Amazon Compliant", "No Monthly Fees", "Pay Only for Results"];
 
@@ -10,12 +11,12 @@ export function Hero() {
           Amazon review management
         </div>
         <h1 className="mx-auto mb-[26px] text-[40px] leading-[1.1] font-bold text-ink sm:text-[64px] sm:leading-[1.08]">
-          <span className="text-blue">Protect</span> Your Amazon Business.{" "}
-          <span className="text-blue">Remove</span> Unfair Reviews.{" "}
-          <span className="text-blue">Increase</span> Sales.
+          <GradientText>Protect</GradientText> Your Amazon Business.{" "}
+          <GradientText>Remove</GradientText> Unfair Reviews.{" "}
+          <GradientText>Increase</GradientText> Sales.
         </h1>
         <p className="mx-auto mb-10 max-w-[600px] text-lg leading-[1.55] text-muted sm:text-xl">
-          We identify and remove reviews that violate Amazon&rsquo;s policies&mdash;systematically,
+          We identify and remove reviews that violate Amazon&rsquo;s policies, systematically,
           compliantly, and effectively. Sign up free, pay $200 only when reviews are removed.
         </p>
         <div className="mb-16 flex flex-wrap items-center justify-center gap-3.5">

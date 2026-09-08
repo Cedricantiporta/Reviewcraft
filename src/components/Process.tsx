@@ -22,7 +22,7 @@ const STEPS = [
   {
     number: "5",
     title: "Removal & Causation-Based Billing",
-    body: "When Amazon removes a review as a direct result of our advocacy, it's a caused removal. You are billed only for removals we directly cause—independent removals are never billed.",
+    body: "When Amazon removes a review as a direct result of our advocacy, it's a caused removal. You are billed only for removals we directly cause; independent removals are never billed.",
   },
 ];
 
@@ -39,8 +39,8 @@ export function Process() {
 
         <div className="mx-auto mb-[72px] max-w-[680px] text-center">
           <p className="mb-3.5 text-[15px] leading-[1.6] text-body">
-            <strong className="text-ink">Before You Start</strong> &mdash; ReviewCraft is a
-            continuous, always-on monitoring service&mdash;not a one-time cleanup tool. There are
+            <strong className="text-ink">Before You Start:</strong> ReviewCraft is a
+            continuous, always-on monitoring service, not a one-time cleanup tool. There are
             no campaigns to manage, no reviews to select, and no deadlines to set.
           </p>
           <p className="text-sm leading-[1.6] text-muted">
